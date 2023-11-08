@@ -13,3 +13,5 @@ console.log(data[4][0]);
 
 //Console log the total length of all the strings.
 console.log(message.length + quote.length + data[0].length + data[1].length + data[4][1].length)
+
+let octogon = "fries"
